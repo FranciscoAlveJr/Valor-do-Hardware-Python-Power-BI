@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Projeto Py-BI"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "48163912-5621-4987-ae6e-d020690fc911"
+  }
+}
